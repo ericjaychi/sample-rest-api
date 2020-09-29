@@ -3,7 +3,7 @@
 # Import the Flask module that has been installed.
 from flask import Flask, jsonify
 
-# Createing a "books" JSON / dict to emulate data coming from a database.
+# Creating a "books" JSON / dict to emulate data coming from a database.
 books = [
 	{
 		"id": 1,
